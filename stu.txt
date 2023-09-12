@@ -15,8 +15,15 @@ helo from master added
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 byeee aman
 =======
 byee ravi
 >>>>>>> 0753849 (branch 1  added byee ravi)
+=======
+byee ravi
+
+
+hi ravi 
+>>>>>>> 30d3dcb (Update stu.txt)
